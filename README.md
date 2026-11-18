@@ -10,12 +10,12 @@ I’m an Information Science student at **Nitte Meenakshi Institute of Technolog
 
 ## Projects
 
-### 🍽️ [BatchOptima KDS](https://github.com/DheekshithChalla/BatchOptima-KDS)
+###  [BatchOptima KDS](https://github.com/DheekshithChalla/BatchOptima-KDS)
 A kitchen batching dashboard prototype built for SpeedCode 2026. It groups incoming orders by delivery zone and time window, then splits batches when they reach the item limit. The project received a **Certificate of Appreciation**.
 
 [Open the demo](https://dheekshithchalla.github.io/BatchOptima-KDS/) · [View the code](https://github.com/DheekshithChalla/BatchOptima-KDS)
 
-### 🌿 [ArthaOS](https://github.com/DheekshithChalla/artha.ai-OS)
+###  [ArthaOS](https://github.com/DheekshithChalla/artha.ai-OS)
 A personal finance prototype built for Arthathon 2026. It explores budgeting, tax comparisons, and scam awareness in a browser-based app.
 
 **Build note:** I used Google Antigravity for coding assistance. I made the project and feature decisions, and worked on integration and final testing.
@@ -25,6 +25,7 @@ A personal finance prototype built for Arthathon 2026. It explores budgeting, ta
 ## Courses & job simulations
 
 - **CS50x: Introduction to Computer Science** — Harvard University (completed)
+- **AI/ML in HydroInformatics** - ISRO and IIRS (govt of India)
 - **Google Prompting Essentials Specialization** — Coursera
 - **Python course completion** — Kaggle
 - **Data Science Job Simulation** — BCG X, via Forage
